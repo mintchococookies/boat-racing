@@ -1,5 +1,5 @@
 # Boat Racing
-A Java implementation of a boat racing game, similar to snake and ladders. In this game, snakes are replaced by traps and ladders are replaced by currents. Players take turns to roll a dice to progress from the start to end along a board with randomly placed currents and traps. 3 difficulty levels are available with different numbers of traps and currents on the board.
+A Java OOP implementation of a boat racing game, similar to snake and ladders. In this game, snakes are replaced by traps and ladders are replaced by currents. Players take turns to roll a dice to progress from the start to end along a board with randomly placed currents and traps. 3 difficulty levels are available with different numbers of traps and currents on the board.
 
 ![Alt Text](https://github.com/mintchococookies/boat-racing/blob/main/boatracing1.png)
 ![Alt Text](https://github.com/mintchococookies/boat-racing/blob/main/boatracing2.png)
